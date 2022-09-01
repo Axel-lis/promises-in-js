@@ -1,3 +1,6 @@
+//
+//promises in js, promesas en js
+//
 let stocks = {
     Fruits : ["strawberry", "grapes", "banana", "apple"],
     liquid : ["water", "ice"],
